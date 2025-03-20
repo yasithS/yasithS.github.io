@@ -1,5 +1,6 @@
 # not-candyCrush
 
+https://notcandycrush.netlify.app
 A browser-based match-three puzzle game inspired by Candy Crush Saga. Match colorful candies in rows or columns of three to earn points!
 
 <img width="1512" alt="game-screenshot" src="https://github.com/user-attachments/assets/fbc5b4e8-62b1-49b7-9ba8-815fc845ce11" />
